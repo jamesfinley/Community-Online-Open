@@ -1,0 +1,86 @@
+.jf_date_selector {
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	width: 196px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	-webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, .1);
+	-moz-box-shadow: 0 2px 3px rgba(0, 0, 0, .1);
+	color: #fff;
+	font: 13px/20px Helvetica;
+}
+.jf_date_selector * {
+	margin: 0;
+	padding: 0;
+}
+.jf_date_selector td {
+	width: 28px;
+	height: 28px;
+	text-align: center;
+}
+.jf_date_selector tr.header {
+	background: #d00;
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0)), color-stop(1, rgba(0, 0, 0, .15)));
+}
+.jf_date_selector tr.header td:first-child {
+	-webkit-border-top-left-radius: 3px;
+	-moz-border-radius-topleft: 3px;
+}
+.jf_date_selector tr.header td:last-child {
+	-webkit-border-top-right-radius: 3px;
+	-moz-border-radius-topright: 3px;
+}
+.jf_date_selector tr.week td {
+	width: 27px;
+	height: 27px;
+	border-left: 1px solid #bbb;
+	border-bottom: 1px solid #bbb;
+	background: #fff;
+	color: #222;
+}
+.jf_date_selector tr.week td:last-child {
+	width: 26px;
+	border-right: 1px solid #bbb;
+}
+.jf_date_selector tr.week:last-child td:first-child {
+	-webkit-border-bottom-left-radius: 3px;
+	-moz-border-radius-bottomleft: 3px;
+}
+.jf_date_selector tr.week:last-child td:last-child {
+	-webkit-border-bottom-right-radius: 3px;
+	-moz-border-radius-bottomright: 3px;
+}
+.jf_date_selector tr.header td a, .jf_date_selector tr.week td a {
+	display: block;
+	height: 19px;
+	padding: 4px 0;
+	color: #222;
+	text-decoration: none;
+}
+.jf_date_selector tr.header td a {
+	color: #fff;
+}
+.jf_date_selector tr.week td a:hover {
+	height: 19px;
+	margin: 2px;
+	padding: 2px 0;
+	-webkit-border-radius: 1px;
+	-moz-border-radius: 1px;
+	border-radius: 1px;
+	background: #ddd;
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(255, 255, 255, 0)), color-stop(1, rgba(255, 255, 255, .6)));
+	color: #222;
+}
+.jf_date_selector tr.week td.today a {
+	height: 19px;
+	margin: 1px;
+	padding: 3px 0;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	background: #d00;
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0)), color-stop(1, rgba(0, 0, 0, .15)));
+	color: #fff;
+}

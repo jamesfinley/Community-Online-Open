@@ -1,0 +1,22 @@
+<div class="esv"><h2>2 Timothy 1</h2>
+<div class="esv-text"><h3 id="p55001001.01-1">Greeting</h3>
+<p class="chapter-first" id="p55001001.02-1"><span class="chapter-num" id="v55001001-1">1:1&nbsp;</span>Paul, an apostle of Christ Jesus by the will of God according to the promise of the life that is in Christ Jesus,</p>
+ <p id="p55001002.01-1"><span class="verse-num" id="v55001002-1">2&nbsp;</span>To Timothy, my beloved child:</p>
+<p id="p55001002.06-1">Grace, mercy, and peace from God the Father and Christ Jesus our Lord.</p>
+ <h3 id="p55001003.01-1">Guard the Deposit Entrusted to You</h3>
+<p id="p55001003.07-1"><span class="verse-num" id="v55001003-1">3&nbsp;</span>I thank God whom I serve, as did my ancestors, with a clear conscience, as I remember you constantly in my prayers night and day. <span class="verse-num" id="v55001004-1">4&nbsp;</span>As I remember your tears, I long to see you, that I may be filled with joy. <span class="verse-num" id="v55001005-1">5&nbsp;</span>I am reminded of your sincere faith, a faith that dwelt first in your grandmother Lois and your mother Eunice and now, I am sure, dwells in you as well. <span class="verse-num" id="v55001006-1">6&nbsp;</span>For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands, <span class="verse-num" id="v55001007-1">7&nbsp;</span>for God gave us a spirit not of fear but of power and love and self-control.</p>
+ <p id="p55001008.01-1"><span class="verse-num" id="v55001008-1">8&nbsp;</span>Therefore do not be ashamed of the testimony about our Lord, nor of me his prisoner, but share in suffering for the gospel by the power of God, <span class="verse-num" id="v55001009-1">9&nbsp;</span>who saved us and called us to<span class="footnote">&nbsp;<a href="#f1" id="b1" title="Or 'with'">[1]</a></span> a holy calling, not because of our works but because of his own purpose and grace, which he gave us in Christ Jesus before the ages began,<span class="footnote">&nbsp;<a href="#f2" id="b2" title="Greek 'before times eternal'">[2]</a></span> <span class="verse-num" id="v55001010-1">10&nbsp;</span>and which now has been manifested through the appearing of our Savior Christ Jesus, who abolished death and brought life and immortality to light through the gospel, <span class="verse-num" id="v55001011-1">11&nbsp;</span>for which I was appointed a preacher and apostle and teacher, <span class="verse-num" id="v55001012-1">12&nbsp;</span>which is why I suffer as I do. But I am not ashamed, for I know whom I have believed, and I am convinced that he is able to guard until that Day what has been entrusted to me.<span class="footnote">&nbsp;<a href="#f3" id="b3" title="Or 'what I have entrusted to him'; Greek 'my deposit'">[3]</a></span> <span class="verse-num" id="v55001013-1">13&nbsp;</span>Follow the pattern of the sound<span class="footnote">&nbsp;<a href="#f4" id="b4" title="Or 'healthy'">[4]</a></span> words that you have heard from me, in the faith and love that are in Christ Jesus. <span class="verse-num" id="v55001014-1">14&nbsp;</span>By the Holy Spirit who dwells within us, guard the good deposit entrusted to you.</p>
+ <p id="p55001015.01-1"><span class="verse-num" id="v55001015-1">15&nbsp;</span>You are aware that all who are in Asia turned away from me, among whom are Phygelus and Hermogenes. <span class="verse-num" id="v55001016-1">16&nbsp;</span>May the Lord grant mercy to the household of Onesiphorus, for he often refreshed me and was not ashamed of my chains, <span class="verse-num" id="v55001017-1">17&nbsp;</span>but when he arrived in Rome he searched for me earnestly and found me&#8212; <span class="verse-num" id="v55001018-1">18&nbsp;</span>may the Lord grant him to find mercy from the Lord on that Day!&#8212;and you well know all the service he rendered at Ephesus.</p>
+</div>
+<div class="footnotes">
+<h3>Footnotes</h3>
+<p><span class="footnote"><a href="#b1" id="f1">[1]</a></span> <span class="footnote-ref">1:9</span> Or <em>with</em>
+<br />
+<span class="footnote"><a href="#b2" id="f2">[2]</a></span> <span class="footnote-ref">1:9</span> Greek <em>before times eternal</em>
+<br />
+<span class="footnote"><a href="#b3" id="f3">[3]</a></span> <span class="footnote-ref">1:12</span> Or <em>what I have entrusted to him</em>; Greek <em>my deposit</em>
+<br />
+<span class="footnote"><a href="#b4" id="f4">[4]</a></span> <span class="footnote-ref">1:13</span> Or <em>healthy</em>
+</p>
+</div>
+</div>

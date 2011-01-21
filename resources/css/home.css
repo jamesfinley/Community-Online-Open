@@ -1,0 +1,230 @@
+#content {
+	padding: 0;
+}
+
+#scroller {
+	position: relative;
+	height: 401px;
+	overflow: hidden;
+}
+
+#scroller.collapse {
+	height: 76px;
+}
+
+#ideas {
+	position: relative;
+}
+
+.big_idea {
+	height: 400px;
+}
+.big_idea .container {
+	height: 400px;
+	background-repeat: no-repeat;
+}
+.big_idea .service_info {
+	display: none;
+	padding: 10px 0;
+	font-size: 24px;
+	font-weight: bold;
+	color: #fff;
+	text-shadow: 0 2px 3px rgba(0, 0, 0, .6);
+}
+#scroller a.collapse_big_ideas {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 20px;
+	padding: 10px 0;
+	z-index: 80;
+	text-align: right;
+	font-weight: bold;
+	color: #fff;
+	text-shadow: 0 2px 3px rgba(0, 0, 0, .6);
+	text-transform: lowercase;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+#scroller.collapse {
+	height: 40px;
+	overflow: hidden;
+}
+#big_idea_toggler.collapse {
+	display: none;
+}
+#collapse_big_ideas.collapse {
+	display: none;
+}
+.collapse .big_idea .service_info {
+	display: block;
+}
+#scroller.collapse a.collapse_big_ideas {
+	display: block;
+}
+
+.big_idea img {
+	display: block;
+}
+
+.big_idea .description {
+	position: absolute;
+	width: 350px;
+	height: 250px;
+	font-size: 13Ïpx;
+}
+
+.big_idea .videos {
+	position: absolute;
+	width: 360px;
+	height: 61px;
+}
+.big_idea .videos ul {
+	list-style: none;
+}
+.big_idea .videos ul li {
+	float: left;
+	margin: 0 10px 0 0;
+}
+.big_idea .videos ul li a {
+	display: block;
+	position: relative;
+}
+.big_idea .videos ul li a .overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.big_idea .invite_and_download {
+	position: relative;
+	width: 232px;
+	height: 26px;
+	margin: 0 auto;
+}
+.big_idea .invite_and_download .invite {
+	display: block;
+	float: left;
+	width: 119px;
+	height: 26px;
+	background: url(../images/invite_and_download.png) no-repeat top left;
+	text-indent: -9000px;
+}
+.big_idea .invite_and_download .download {
+	display: block;
+	float: left;
+	width: 113px;
+	height: 26px;
+	background: url(../images/invite_and_download.png) no-repeat top right;
+	text-indent: -9000px;
+}
+.big_idea .downloads {
+	display: none;
+	position: absolute;
+	left: 80px;
+	bottom: 31px;
+	list-style: none;
+	width: 200px;
+	border-radius: 3px;
+	-webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, .45);
+	background: #fff;
+}
+.big_idea .downloads:after {
+	content: '';
+	position: absolute;
+	left: 85px;
+	bottom: -20px;
+	width: 30px;
+	height: 20px;
+	background: url(../images/downloads_arrow.png) no-repeat;
+}
+.big_idea .downloads li {
+	padding: 3px 5px 3px 25px;
+	background: url(../images/document_icon.png) no-repeat 5px 5px;
+}
+.big_idea .downloads li a {
+	float: left;
+	display: block;
+	max-width: 125px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+#big_idea_toggler {
+	list-style: none;
+	width: 960px;
+	margin: 0 auto;
+	padding-top: 5px;
+	text-align: center;
+}
+#big_idea_toggler li {
+	display: inline;
+	padding: 0 5px;
+}
+#big_idea_toggler li.title {
+	padding: 0;
+	font-weight: bold;
+}
+#big_idea_toggler li.collapse {
+	float: right;
+}
+#big_idea_toggler li .selected {
+	font-weight: bold;
+}
+
+#group_page #sidebar .sidebar_stream h2 {
+	margin-bottom: 5px;
+}
+#group_page #sidebar .sidebar_stream li {
+	margin: 0 0 5px;
+	padding: 0 0 5px;
+	border-bottom: 1px solid #f1f1f1;
+}
+#group_page #sidebar .sidebar_stream li:last-child {
+	padding: 0;
+	border: none;
+}
+#group_page #sidebar .sidebar_stream li a.link {
+	padding: 0 0 0 25px;
+	background-repeat: no-repeat;
+	background-position: top left;
+}
+.sidebar_stream li.discussion a.link {
+	background-image: url(../images/icon_discussion.png);
+}
+.sidebar_stream li.prayer a.link {
+	background-image: url(../images/icon_prayers.png);
+}
+.sidebar_stream li a.link {
+	display: block;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.sidebar_stream li .group {
+	display: block;
+	padding: 0 0 0 25px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	font-size: 12px;
+	color: #aaa;
+}
+
+#big_idea_video_player {
+	position: absolute;
+	z-index: 80;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 400px;
+	background: rgba(0, 0, 0, .6);
+}
+#big_idea_video_player div {
+	width: 640px;
+	height: 360px;
+	margin: 20px auto;
+}

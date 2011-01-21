@@ -1,0 +1,257 @@
+* { margin: 0; padding: 0; }
+a {
+	outline: none;
+	}
+html {
+	-webkit-text-size-adjust: none;
+	}
+body {
+	margin: 40px 20px 10px;
+	background: #fff;
+	font-size: 14px;
+	line-height: 20px;
+	font-family: "Helvetica Neue", Arial, sans-serif;
+	font-weight: 300;
+	}
+#header {
+	position: fixed;
+	top: 0;
+	right: 7px;
+	width: 100%;
+	margin: 0 auto;
+	height: 40px;
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ffffff), to(rgba(255, 255, 255, 0)));
+	}
+	#navigation {
+	position: relative;
+	float: right;
+	padding: 7px 0;
+	}
+	#navigation .button {
+	float: left;
+	display: block;
+	width: 26px;
+	height: 26px;
+	margin-right: 2px;
+	background: url(../images/nav_buttons.jpg) no-repeat top left;
+	text-indent: -9000px;
+	}
+	#navigation #previous_book {
+	background-position: -26px 0;
+	}
+	#navigation #previous_chapter {
+	background-position: -52px 0;
+	}
+	#navigation #next_chapter {
+	background-position: -78px 0;
+	}
+	#navigation #next_book {
+	margin-right: 0;
+	background-position: -104px 0;
+	}
+	#navigation .book_name {
+	float: left;
+	display: block;
+	width: 158px;
+	height: 20px;
+	margin-right: 2px;
+	padding: 3px 5px;
+	background: url(../images/nav_bookmenu.jpg) no-repeat top left;
+	font-weight: bold;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, .7);
+	cursor: pointer;
+	}
+	#navigation #book_menu {
+	position: absolute;
+	top: 34px;
+	right: 56px;
+	width: 166px;
+	max-height: 300px;
+	overflow: auto;
+	border: 1px solid #959595;
+	-webkit-border-radius: 3px;
+	background: #e4e4e4;
+	list-style: none;
+	}
+	#navigation #book_menu li a {
+	display: block;
+	padding: 3px 5px;
+	border-bottom: 1px solid rgba(0, 0, 0, .1);
+	color: #222;
+	text-decoration: none;
+	}
+	#navigation #book_menu li a:hover {
+	background: rgba(255, 255, 255, .5);
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(255, 255, 255, .6)), to(rgba(255, 255, 255, .2)));
+	}
+	#navigation #search {
+	position: absolute;
+	top: 34px;
+	width: 244px;
+	padding: 3px;
+	border: 1px solid #959595;
+	-webkit-border-radius: 3px;
+	background: #e4e4e4;
+	}
+	#navigation #search input {
+	width: 236px;
+	padding: 3px;
+	border: 1px solid #959595;
+	font-family: "Helvetica Neue", Arial, sans-serif;
+	font-size: 14px;
+	}
+	#navigation #results {
+	list-style: none;
+	}
+	#navigation #results li a {
+	display: block;
+	padding: 3px 0 0;
+	border-bottom: 1px solid rgba(0, 0, 0, .1);
+	color: #222;
+	text-decoration: none;
+	}
+	#navigation #results li:last-child a {
+	border-bottom: none;
+	}
+	#navigation #results li a:hover {
+	background: rgba(255, 255, 255, .5);
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(255, 255, 255, .6)), to(rgba(255, 255, 255, .2)));
+	}
+#bible {
+	max-width: 1600px;
+	margin: 0 auto;
+	-webkit-column-count: 3;
+	min-height: 500px;
+	-webkit-column-gap: 20px;
+	-moz-column-count: 3;
+	-moz-column-gap: 20px;
+	column-count: 3;
+	column-gap: 20px;
+	}
+	@media screen and (min-width: 1600px) {
+		#bible {
+		-webkit-column-count: 4;
+		}
+	}
+	@media screen and (max-width: 1200px) {
+		#bible {
+		-webkit-column-count: 2;
+		}
+	}
+	@media screen and (max-device-width: 320px) {
+		#bible {
+		-webkit-column-count: 1;
+		}
+	}
+.esv h2 {
+	text-transform: uppercase;
+	font: 32px/40px Palatino, "Palatino Linotype", "Hoefler Text", Times, "Times New Roman", serif;
+	letter-spacing: 2px;
+	}
+.esv h3 {
+	font: bold 18px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	}
+.esv h4 {
+	font: 14px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	}
+.esv h2, .esv h3, .esv h4 {
+	-webkit-column-break-after: avoid;
+	}
+.esv h3, .esv p {
+	margin-bottom: 20px;
+	}
+	.esv p {
+	color: #222;
+	text-align: justify;
+	}
+.esv .chapter-num, .esv .verse-num {
+	font-weight: bold;
+	color: #000;
+	}
+.esv .footnote {
+	font-size: 12px;
+	vertical-align: 3px;
+	line-height: 15px;
+	}
+.esv .footnote a, .footnotes a {
+	color: #0092d4;
+	text-decoration: none;
+	}
+	.esv .footnote a {
+	display: inline-block;
+	width: 18px;
+	height: 21px;
+	background: url(../images/footnote.jpg) no-repeat;
+	text-indent: -9000px;
+	}
+.copyright {
+	display: block;
+	text-align: center;
+	font-size: 12px;
+	line-height: 20px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	}
+.footnotes {
+	max-width: 1600px;
+	margin: 0 auto 10px;
+	padding: 9px 0 0;
+	border-top: 1px solid rgba(0, 0, 0, .1);
+	}
+	.footnotes h3 {
+	text-transform: uppercase;
+	font: 18px/20px Palatino, "Palatino Linotype", "Hoefler Text", Times, "Times New Roman", serif;
+	letter-spacing: 2px;
+	}
+	.footnotes .footnote-ref {
+	color: #444;
+	}
+	.footnotes ul {
+	list-style: none;
+	}
+	.footnotes ul li {
+	background: #fff;
+	-webkit-transition: 1s;
+	}
+	.footnotes ul li:target {
+	background: #ffc;
+	background: #fff -webkit-gradient(linear, 0% 0%, 100% 0%, from(#ffffcc), to(#ffffff));
+	}
+	
+.esv span.woc { /* Words of Christ (for red-letter editions) */
+	color: #900;
+	}
+.esv span.indent {
+	padding-left: 2em;
+	}
+.esv span.indent-2, .esv span.psalm-doxology-line {
+	padding-left: 4em;
+	}
+.esv span.declares-line {
+	padding-left: 6em;
+	}
+.esv span.small-caps {
+	font-variant: small-caps;
+	}
+.esv span.selah {
+	font-style: italic;
+	margin-left: 1em;
+	}
+.esv p.extra-space {
+	margin-top: 2em;
+	}
+.esv div.block-indent span.verse-num, .esv div.block-indent span.woc  {
+	padding-left: 0;
+	}
+.esv h4.speaker {
+	font-variant: small-caps;
+	}
+.esv h4.textual-note {
+	font-variant: small-caps;	
+	}
+.esv h4.psalm-acrostic-title {
+	font-variant: small-caps;
+	}
+.esv h4.psalm-title {
+
+	}

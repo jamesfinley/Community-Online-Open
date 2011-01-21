@@ -1,0 +1,28 @@
+<div class="esv"><h2>2 Timothy 2</h2>
+<div class="esv-text"><h3 id="p55002001.01-1">A Good Soldier of Christ Jesus</h3>
+<p id="p55002001.07-1"><span class="chapter-num" id="v55002001-1">2:1&nbsp;</span>You then, my child, be strengthened by the grace that is in Christ Jesus, <span class="verse-num" id="v55002002-1">2&nbsp;</span>and what you have heard from me in the presence of many witnesses entrust to faithful men who will be able to teach others also. <span class="verse-num" id="v55002003-1">3&nbsp;</span>Share in suffering as a good soldier of Christ Jesus. <span class="verse-num" id="v55002004-1">4&nbsp;</span>No soldier gets entangled in civilian pursuits, since his aim is to please the one who enlisted him. <span class="verse-num" id="v55002005-1">5&nbsp;</span>An athlete is not crowned unless he competes according to the rules. <span class="verse-num" id="v55002006-1">6&nbsp;</span>It is the hard-working farmer who ought to have the first share of the crops. <span class="verse-num" id="v55002007-1">7&nbsp;</span>Think over what I say, for the Lord will give you understanding in everything.</p>
+ <p id="p55002008.01-1"><span class="verse-num" id="v55002008-1">8&nbsp;</span>Remember Jesus Christ, risen from the dead, the offspring of David, as preached in my gospel, <span class="verse-num" id="v55002009-1">9&nbsp;</span>for which I am suffering, bound with chains as a criminal. But the word of God is not bound! <span class="verse-num" id="v55002010-1">10&nbsp;</span>Therefore I endure everything for the sake of the elect, that they also may obtain the salvation that is in Christ Jesus with eternal glory. <span class="verse-num" id="v55002011-1">11&nbsp;</span>The saying is trustworthy, for:</p>
+<div class="block-indent">
+<p class="line-group" id="p55002011.06-1">If we have died with him, we will also live with him;<br />
+ <span class="verse-num" id="v55002012-1">12&nbsp;</span>if we endure, we will also reign with him;<br />
+if we deny him, he also will deny us;<br />
+ <span class="verse-num" id="v55002013-1">13&nbsp;</span>if we are faithless, he remains faithful&#8212;</p>
+</div>
+<p class="same-paragraph" id="p55002013.08-1">for he cannot deny himself.</p>
+ <h3 id="p55002014.01-1">A Worker Approved by God</h3>
+<p id="p55002014.06-1"><span class="verse-num" id="v55002014-1">14&nbsp;</span>Remind them of these things, and charge them before God<span class="footnote">&nbsp;<a href="#f1" id="b1" title="Some manuscripts 'the Lord'">[1]</a></span> not to quarrel about words, which does no good, but only ruins the hearers. <span class="verse-num" id="v55002015-1">15&nbsp;</span>Do your best to present yourself to God as one approved,<span class="footnote">&nbsp;<a href="#f2" id="b2" title="That is, one approved after being tested">[2]</a></span> a worker who has no need to be ashamed, rightly handling the word of truth. <span class="verse-num" id="v55002016-1">16&nbsp;</span>But avoid irreverent babble, for it will lead people into more and more ungodliness, <span class="verse-num" id="v55002017-1">17&nbsp;</span>and their talk will spread like gangrene. Among them are Hymenaeus and Philetus, <span class="verse-num" id="v55002018-1">18&nbsp;</span>who have swerved from the truth, saying that the resurrection has already happened. They are upsetting the faith of some. <span class="verse-num" id="v55002019-1">19&nbsp;</span>But God's firm foundation stands, bearing this seal: &#8220;The Lord knows those who are his,&#8221; and, &#8220;Let everyone who names the name of the Lord depart from iniquity.&#8221;</p>
+ <p id="p55002020.01-1"><span class="verse-num" id="v55002020-1">20&nbsp;</span>Now in a great house there are not only vessels of gold and silver but also of wood and clay, some for honorable use, some for dishonorable. <span class="verse-num" id="v55002021-1">21&nbsp;</span>Therefore, if anyone cleanses himself from what is dishonorable,<span class="footnote">&nbsp;<a href="#f3" id="b3" title="Greek 'from these things'">[3]</a></span> he will be a vessel for honorable use, set apart as holy, useful to the master of the house, ready for every good work.</p>
+ <p id="p55002022.01-1"><span class="verse-num" id="v55002022-1">22&nbsp;</span>So flee youthful passions and pursue righteousness, faith, love, and peace, along with those who call on the Lord from a pure heart. <span class="verse-num" id="v55002023-1">23&nbsp;</span>Have nothing to do with foolish, ignorant controversies; you know that they breed quarrels. <span class="verse-num" id="v55002024-1">24&nbsp;</span>And the Lord's servant<span class="footnote">&nbsp;<a href="#f4" id="b4" title="Greek 'bondservant'">[4]</a></span> must not be quarrelsome but kind to everyone, able to teach, patiently enduring evil, <span class="verse-num" id="v55002025-1">25&nbsp;</span>correcting his opponents with gentleness. God may perhaps grant them repentance leading to a knowledge of the truth, <span class="verse-num" id="v55002026-1">26&nbsp;</span>and they may come to their senses and escape from the snare of the devil, after being captured by him to do his will.</p>
+</div>
+<div class="footnotes">
+<h3>Footnotes</h3>
+<p><span class="footnote"><a href="#b1" id="f1">[1]</a></span> <span class="footnote-ref">2:14</span> Some manuscripts <em>the Lord</em>
+<br />
+<span class="footnote"><a href="#b2" id="f2">[2]</a></span> <span class="footnote-ref">2:15</span> That is, one approved after being tested
+<br />
+<span class="footnote"><a href="#b3" id="f3">[3]</a></span> <span class="footnote-ref">2:21</span> Greek <em>from these things</em>
+<br />
+<span class="footnote"><a href="#b4" id="f4">[4]</a></span> <span class="footnote-ref">2:24</span> Greek <em>bondservant</em>
+</p>
+</div>
+</div>

@@ -1,0 +1,18 @@
+<div class="esv"><h2>3 John 1</h2>
+<div class="esv-text"><h3 id="p64001001.01-1">Greeting</h3>
+<p class="chapter-first" id="p64001001.02-1"><span class="chapter-num" id="v64001001-1">1:1&nbsp;</span>The elder to the beloved Gaius, whom I love in truth.</p>
+ <p class="chapter-first" id="p64001002.01-1"><span class="verse-num" id="v64001002-1">2&nbsp;</span>Beloved, I pray that all may go well with you and that you may be in good health, as it goes well with your soul. <span class="verse-num" id="v64001003-1">3&nbsp;</span>For I rejoiced greatly when the brothers<span class="footnote">&nbsp;<a href="#f1" id="b1" title="Or 'brothers and sisters'. The plural Greek word 'adelphoi' (translated &quot;brothers&quot;) refers to siblings in a family. In New Testament usage, depending on the context, 'adelphoi' may refer either to men or to both men and women who are siblings (brothers and sisters) in God's family, the church; also verses 5, 10">[1]</a></span> came and testified to your truth, as indeed you are walking in the truth. <span class="verse-num" id="v64001004-1">4&nbsp;</span>I have no greater joy than to hear that my children are walking in the truth.</p>
+ <h3 id="p64001005.01-1">Support and Opposition</h3>
+<p id="p64001005.04-1"><span class="verse-num" id="v64001005-1">5&nbsp;</span>Beloved, it is a faithful thing you do in all your efforts for these brothers, strangers as they are, <span class="verse-num" id="v64001006-1">6&nbsp;</span>who testified to your love before the church. You will do well to send them on their journey in a manner worthy of God. <span class="verse-num" id="v64001007-1">7&nbsp;</span>For they have gone out for the sake of the name, accepting nothing from the Gentiles. <span class="verse-num" id="v64001008-1">8&nbsp;</span>Therefore we ought to support people like these, that we may be fellow workers for the truth.</p>
+ <p id="p64001009.01-1"><span class="verse-num" id="v64001009-1">9&nbsp;</span>I have written something to the church, but Diotrephes, who likes to put himself first, does not acknowledge our authority. <span class="verse-num" id="v64001010-1">10&nbsp;</span>So if I come, I will bring up what he is doing, talking wicked nonsense against us. And not content with that, he refuses to welcome the brothers, and also stops those who want to and puts them out of the church.</p>
+ <p id="p64001011.01-1"><span class="verse-num" id="v64001011-1">11&nbsp;</span>Beloved, do not imitate evil but imitate good. Whoever does good is from God; whoever does evil has not seen God. <span class="verse-num" id="v64001012-1">12&nbsp;</span>Demetrius has received a good testimony from everyone, and from the truth itself. We also add our testimony, and you know that our testimony is true.</p>
+ <h3 id="p64001013.01-1">Final Greetings</h3>
+<p id="p64001013.03-1"><span class="verse-num" id="v64001013-1">13&nbsp;</span>I had much to write to you, but I would rather not write with pen and ink. <span class="verse-num" id="v64001014-1">14&nbsp;</span>I hope to see you soon, and we will talk face to face.</p>
+ <p id="p64001015.01-1"><span class="verse-num" id="v64001015-1">15&nbsp;</span>Peace be to you. The friends greet you. Greet the friends, every one of them.</p>
+</div>
+<div class="footnotes">
+<h3>Footnotes</h3>
+<p><span class="footnote"><a href="#b1" id="f1">[1]</a></span> <span class="footnote-ref">1:3</span> Or <em>brothers and sisters</em>. The plural Greek word <em>adelphoi</em> (translated &#8220;brothers&#8221;) refers to siblings in a family. In New Testament usage, depending on the context, <em>adelphoi</em> may refer either to men or to both men and women who are siblings (brothers and sisters) in God's family, the church; also verses 5, 10
+</p>
+</div>
+</div>

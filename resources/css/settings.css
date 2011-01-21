@@ -1,0 +1,51 @@
+#container {
+	width: 678px;
+	margin: 10px auto;
+	padding: 10px 10px 0;
+	background: #fff;
+	border: 1px solid #c3c3c3;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, .15);
+	-moz-box-shadow: 0 2px 5px rgba(0, 0, 0, .15);
+}
+#container h2 {
+	margin-bottom: 10px;
+	font-size: 24px;
+	color: #222;
+}
+#user_account, #register_form {
+	margin-bottom: 10px;
+}
+#user_account label, #register_form label {
+	display: block;
+}
+#user_account input[type=text], #user_account input[type=password], #register_form input[type=text], #register_form input[type=password] {
+	display: block;
+	width: 468px;
+	margin-bottom: 10px;
+	padding: 4px;
+	border: 1px solid #ccc;
+	outline: none;
+	font: 14px/20px Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+#user_account input[type=file], #register_form input[type=file] {
+	display: block;
+	width: 468px;
+	margin-bottom: 10px;
+	padding: 4px;
+	font: 14px/20px Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+#user_account fieldset, #register_form fieldset {
+	width: 478px;
+	margin: 20px 0 0;
+	border: none;
+	border-top: 2px solid #888;
+}
+#user_account fieldset legend, #register_form fieldset legend {
+	margin: 0 5px;
+	padding: 0 5px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #222;
+}

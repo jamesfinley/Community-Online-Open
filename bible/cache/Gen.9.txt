@@ -1,0 +1,38 @@
+<div class="esv"><h2>Genesis 9</h2>
+<div class="esv-text"><p id="p01009001.01-1"><span class="chapter-num" id="v01009001-1">9:1&nbsp;</span>And God blessed Noah and his sons and said to them, &#8220;Be fruitful and multiply and fill the earth. <span class="verse-num" id="v01009002-1">2&nbsp;</span>The fear of you and the dread of you shall be upon every beast of the earth and upon every bird of the heavens, upon everything that creeps on the ground and all the fish of the sea. Into your hand they are delivered. <span class="verse-num" id="v01009003-1">3&nbsp;</span>Every moving thing that lives shall be food for you. And as I gave you the green plants, I give you everything. <span class="verse-num" id="v01009004-1">4&nbsp;</span>But you shall not eat flesh with its life, that is, its blood. <span class="verse-num" id="v01009005-1">5&nbsp;</span>And for your lifeblood I will require a reckoning: from every beast I will require it and from man. From his fellow man I will require a reckoning for the life of man.</p>
+ <div class="block-indent">
+<p class="line-group" id="p01009006.01-1"><span class="verse-num" id="v01009006-1">6&nbsp;</span>&#8220;Whoever sheds the blood of man,<br />
+<span class="indent"></span>by man shall his blood be shed,<br />
+for God made man in his own image.</p>
+</div>
+ <p class="same-paragraph" id="p01009007.01-1"><span class="verse-num" id="v01009007-1">7&nbsp;</span>And you,<span class="footnote">&nbsp;<a href="#f1" id="b1" title="In Hebrew 'you' is plural">[1]</a></span> be fruitful and multiply, teem on the earth and multiply in it.&#8221;</p>
+ <p id="p01009008.01-1"><span class="verse-num" id="v01009008-1">8&nbsp;</span>Then God said to Noah and to his sons with him, <span class="verse-num" id="v01009009-1">9&nbsp;</span>&#8220;Behold, I establish my covenant with you and your offspring after you, <span class="verse-num" id="v01009010-1">10&nbsp;</span>and with every living creature that is with you, the birds, the livestock, and every beast of the earth with you, as many as came out of the ark; it is for every beast of the earth. <span class="verse-num" id="v01009011-1">11&nbsp;</span>I establish my covenant with you, that never again shall all flesh be cut off by the waters of the flood, and never again shall there be a flood to destroy the earth.&#8221; <span class="verse-num" id="v01009012-1">12&nbsp;</span>And God said, &#8220;This is the sign of the covenant that I make between me and you and every living creature that is with you, for all future generations: <span class="verse-num" id="v01009013-1">13&nbsp;</span>I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth. <span class="verse-num" id="v01009014-1">14&nbsp;</span>When I bring clouds over the earth and the bow is seen in the clouds, <span class="verse-num" id="v01009015-1">15&nbsp;</span>I will remember my covenant that is between me and you and every living creature of all flesh. And the waters shall never again become a flood to destroy all flesh. <span class="verse-num" id="v01009016-1">16&nbsp;</span>When the bow is in the clouds, I will see it and remember the everlasting covenant between God and every living creature of all flesh that is on the earth.&#8221; <span class="verse-num" id="v01009017-1">17&nbsp;</span>God said to Noah, &#8220;This is the sign of the covenant that I have established between me and all flesh that is on the earth.&#8221;</p>
+ <h3 id="p01009018.01-1">Noah's Descendants</h3>
+<p id="p01009018.03-1"><span class="verse-num" id="v01009018-1">18&nbsp;</span>The sons of Noah who went forth from the ark were Shem, Ham, and Japheth. (Ham was the father of Canaan.) <span class="verse-num" id="v01009019-1">19&nbsp;</span>These three were the sons of Noah, and from these the people of the whole earth were dispersed.<span class="footnote">&nbsp;<a href="#f2" id="b2" title="Or 'from these the whole earth was populated'">[2]</a></span></p>
+ <p id="p01009020.01-1"><span class="verse-num" id="v01009020-1">20&nbsp;</span>Noah began to be a man of the soil, and he planted a vineyard.<span class="footnote">&nbsp;<a href="#f3" id="b3" title="Or 'Noah, a man of the soil, was the first to plant a vineyard'">[3]</a></span> <span class="verse-num" id="v01009021-1">21&nbsp;</span>He drank of the wine and became drunk and lay uncovered in his tent. <span class="verse-num" id="v01009022-1">22&nbsp;</span>And Ham, the father of Canaan, saw the nakedness of his father and told his two brothers outside. <span class="verse-num" id="v01009023-1">23&nbsp;</span>Then Shem and Japheth took a garment, laid it on both their shoulders, and walked backward and covered the nakedness of their father. Their faces were turned backward, and they did not see their father's nakedness. <span class="verse-num" id="v01009024-1">24&nbsp;</span>When Noah awoke from his wine and knew what his youngest son had done to him, <span class="verse-num" id="v01009025-1">25&nbsp;</span>he said,</p>
+<div class="block-indent">
+<p class="line-group" id="p01009025.03-1">&#8220;Cursed be Canaan;<br />
+<span class="indent"></span>a servant of servants shall he be to his brothers.&#8221;</p>
+</div>
+ <p class="same-paragraph" id="p01009026.01-1"><span class="verse-num" id="v01009026-1">26&nbsp;</span>He also said,</p>
+<div class="block-indent">
+<p class="line-group" id="p01009026.04-1">&#8220;Blessed be the <span class="small-caps">Lord</span>, the God of Shem;<br />
+<span class="indent"></span>and let Canaan be his servant.<br />
+ <span class="verse-num" id="v01009027-1">27&nbsp;</span>May God enlarge Japheth,<span class="footnote">&nbsp;<a href="#f4" id="b4" title="'Japheth' sounds like the Hebrew for 'enlarge'">[4]</a></span><br />
+<span class="indent"></span>and let him dwell in the tents of Shem,<br />
+<span class="indent"></span>and let Canaan be his servant.&#8221;</p>
+</div>
+ <p id="p01009028.01-1"><span class="verse-num" id="v01009028-1">28&nbsp;</span>After the flood Noah lived 350 years. <span class="verse-num" id="v01009029-1">29&nbsp;</span>All the days of Noah were 950 years, and he died.</p>
+</div>
+<div class="footnotes">
+<h3>Footnotes</h3>
+<p><span class="footnote"><a href="#b1" id="f1">[1]</a></span> <span class="footnote-ref">9:7</span> In Hebrew <em>you</em> is plural
+<br />
+<span class="footnote"><a href="#b2" id="f2">[2]</a></span> <span class="footnote-ref">9:19</span> Or <em>from these the whole earth was populated</em>
+<br />
+<span class="footnote"><a href="#b3" id="f3">[3]</a></span> <span class="footnote-ref">9:20</span> Or <em>Noah, a man of the soil, was the first to plant a vineyard</em>
+<br />
+<span class="footnote"><a href="#b4" id="f4">[4]</a></span> <span class="footnote-ref">9:27</span> <em>Japheth</em> sounds like the Hebrew for <em>enlarge</em>
+</p>
+</div>
+</div>

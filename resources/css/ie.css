@@ -1,0 +1,14 @@
+#header #primary_navigation li ul li:first-child:before {
+    top: -12px;
+}
+#header #primary_navigation li ul li a:hover {
+	padding: 5px;
+	background: #111;
+}
+#group_page #stream .stream_item .footer .post_actions .share_post_menu li a:hover {
+	padding: 5px;
+	background: #111;
+}
+textarea, #group_page #stream #post_to_stream textarea {
+	margin-bottom: 5px;
+}

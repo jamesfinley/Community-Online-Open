@@ -1,0 +1,63 @@
+<div class="esv"><h2>Genesis 3</h2>
+<div class="esv-text"><h3 id="p01003001.01-1">The Fall</h3>
+<p class="chapter-first" id="p01003001.03-1"><span class="chapter-num" id="v01003001-1">3:1&nbsp;</span>Now the serpent was more crafty than any other beast of the field that the <span class="small-caps">Lord</span> God had made.</p>
+<p id="p01003001.22-1">He said to the woman, &#8220;Did God actually say, &#8216;You<span class="footnote">&nbsp;<a href="#f1" id="b1" title="In Hebrew 'you' is plural in verses 1-5">[1]</a></span> shall not eat of any tree in the garden&#8217;?&#8221; <span class="verse-num" id="v01003002-1">2&nbsp;</span>And the woman said to the serpent, &#8220;We may eat of the fruit of the trees in the garden, <span class="verse-num" id="v01003003-1">3&nbsp;</span>but God said, &#8216;You shall not eat of the fruit of the tree that is in the midst of the garden, neither shall you touch it, lest you die.&#8217;&#8221; <span class="verse-num" id="v01003004-1">4&nbsp;</span>But the serpent said to the woman, &#8220;You will not surely die. <span class="verse-num" id="v01003005-1">5&nbsp;</span>For God knows that when you eat of it your eyes will be opened, and you will be like God, knowing good and evil.&#8221; <span class="verse-num" id="v01003006-1">6&nbsp;</span>So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise,<span class="footnote">&nbsp;<a href="#f2" id="b2" title="Or 'to give insight'">[2]</a></span> she took of its fruit and ate, and she also gave some to her husband who was with her, and he ate. <span class="verse-num" id="v01003007-1">7&nbsp;</span>Then the eyes of both were opened, and they knew that they were naked. And they sewed fig leaves together and made themselves loincloths.</p>
+ <p id="p01003008.01-1"><span class="verse-num" id="v01003008-1">8&nbsp;</span>And they heard the sound of the <span class="small-caps">Lord</span> God walking in the garden in the cool<span class="footnote">&nbsp;<a href="#f3" id="b3" title="Hebrew 'wind'">[3]</a></span> of the day, and the man and his wife hid themselves from the presence of the <span class="small-caps">Lord</span> God among the trees of the garden. <span class="verse-num" id="v01003009-1">9&nbsp;</span>But the <span class="small-caps">Lord</span> God called to the man and said to him, &#8220;Where are you?&#8221;<span class="footnote">&nbsp;<a href="#f4" id="b4" title="In Hebrew 'you' is singular in verses 9 and 11">[4]</a></span> <span class="verse-num" id="v01003010-1">10&nbsp;</span>And he said, &#8220;I heard the sound of you in the garden, and I was afraid, because I was naked, and I hid myself.&#8221; <span class="verse-num" id="v01003011-1">11&nbsp;</span>He said, &#8220;Who told you that you were naked? Have you eaten of the tree of which I commanded you not to eat?&#8221; <span class="verse-num" id="v01003012-1">12&nbsp;</span>The man said, &#8220;The woman whom you gave to be with me, she gave me fruit of the tree, and I ate.&#8221; <span class="verse-num" id="v01003013-1">13&nbsp;</span>Then the <span class="small-caps">Lord</span> God said to the woman, &#8220;What is this that you have done?&#8221; The woman said, &#8220;The serpent deceived me, and I ate.&#8221;</p>
+ <p id="p01003014.01-1"><span class="verse-num" id="v01003014-1">14&nbsp;</span>The <span class="small-caps">Lord</span> God said to the serpent,</p>
+<div class="block-indent">
+<p class="line-group" id="p01003014.08-1">&#8220;Because you have done this,<br />
+<span class="indent"></span>cursed are you above all livestock<br />
+<span class="indent"></span>and above all beasts of the field;<br />
+on your belly you shall go,<br />
+<span class="indent"></span>and dust you shall eat<br />
+<span class="indent"></span>all the days of your life.<br />
+ <span class="verse-num" id="v01003015-1">15&nbsp;</span>I will put enmity between you and the woman,<br />
+<span class="indent"></span>and between your offspring<span class="footnote">&nbsp;<a href="#f5" id="b5" title="Hebrew 'seed'; so throughout Genesis">[5]</a></span> and her offspring;<br />
+he shall bruise your head,<br />
+<span class="indent"></span>and you shall bruise his heel.&#8221;</p>
+</div>
+ <p id="p01003016.01-1"><span class="verse-num" id="v01003016-1">16&nbsp;</span>To the woman he said,</p>
+<div class="block-indent">
+<p class="line-group" id="p01003016.06-1">&#8220;I will surely multiply your pain in childbearing;<br />
+<span class="indent"></span>in pain you shall bring forth children.<br />
+Your desire shall be for<span class="footnote">&nbsp;<a href="#f6" id="b6" title="Or 'against'">[6]</a></span> your husband,<br />
+<span class="indent"></span>and he shall rule over you.&#8221;</p>
+</div>
+ <p id="p01003017.01-1"><span class="verse-num" id="v01003017-1">17&nbsp;</span>And to Adam he said,</p>
+<div class="block-indent">
+<p class="line-group" id="p01003017.06-1">&#8220;Because you have listened to the voice of your wife<br />
+<span class="indent"></span>and have eaten of the tree<br />
+of which I commanded you,<br />
+<span class="indent"></span>&#8216;You shall not eat of it,&#8217;<br />
+cursed is the ground because of you;<br />
+<span class="indent"></span>in pain you shall eat of it all the days of your life;<br />
+ <span class="verse-num" id="v01003018-1">18&nbsp;</span>thorns and thistles it shall bring forth for you;<br />
+<span class="indent"></span>and you shall eat the plants of the field.<br />
+ <span class="verse-num" id="v01003019-1">19&nbsp;</span>By the sweat of your face<br />
+<span class="indent"></span>you shall eat bread,<br />
+till you return to the ground,<br />
+<span class="indent"></span>for out of it you were taken;<br />
+for you are dust,<br />
+<span class="indent"></span>and to dust you shall return.&#8221;</p>
+</div>
+ <p id="p01003020.01-1"><span class="verse-num" id="v01003020-1">20&nbsp;</span>The man called his wife's name Eve, because she was the mother of all living.<span class="footnote">&nbsp;<a href="#f7" id="b7" title="'Eve' sounds like the Hebrew for 'life-giver' and resembles the word for 'living'">[7]</a></span> <span class="verse-num" id="v01003021-1">21&nbsp;</span>And the <span class="small-caps">Lord</span> God made for Adam and for his wife garments of skins and clothed them.</p>
+ <p id="p01003022.01-1"><span class="verse-num" id="v01003022-1">22&nbsp;</span>Then the <span class="small-caps">Lord</span> God said, &#8220;Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand and take also of the tree of life and eat, and live forever&#8212;&#8221; <span class="verse-num" id="v01003023-1">23&nbsp;</span>therefore the <span class="small-caps">Lord</span> God sent him out from the garden of Eden to work the ground from which he was taken. <span class="verse-num" id="v01003024-1">24&nbsp;</span>He drove out the man, and at the east of the garden of Eden he placed the cherubim and a flaming sword that turned every way to guard the way to the tree of life.</p>
+</div>
+<div class="footnotes">
+<h3>Footnotes</h3>
+<p><span class="footnote"><a href="#b1" id="f1">[1]</a></span> <span class="footnote-ref">3:1</span> In Hebrew <em>you</em> is plural in verses 1-5
+<br />
+<span class="footnote"><a href="#b2" id="f2">[2]</a></span> <span class="footnote-ref">3:6</span> Or <em>to give insight</em>
+<br />
+<span class="footnote"><a href="#b3" id="f3">[3]</a></span> <span class="footnote-ref">3:8</span> Hebrew <em>wind</em>
+<br />
+<span class="footnote"><a href="#b4" id="f4">[4]</a></span> <span class="footnote-ref">3:9</span> In Hebrew <em>you</em> is singular in verses 9 and 11
+<br />
+<span class="footnote"><a href="#b5" id="f5">[5]</a></span> <span class="footnote-ref">3:15</span> Hebrew <em>seed</em>; so throughout Genesis
+<br />
+<span class="footnote"><a href="#b6" id="f6">[6]</a></span> <span class="footnote-ref">3:16</span> Or <em>against</em>
+<br />
+<span class="footnote"><a href="#b7" id="f7">[7]</a></span> <span class="footnote-ref">3:20</span> <em>Eve</em> sounds like the Hebrew for <em>life-giver</em> and resembles the word for <em>living</em>
+</p>
+</div>
+</div>

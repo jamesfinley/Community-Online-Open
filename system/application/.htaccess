@@ -1,0 +1,83 @@
+#Redirects to Pages
+Redirect 301 /administrator http://communitychristian.org/pages/administrator
+Redirect 301 /giftmart http://communitychristian.org/pages/giftmart
+Redirect 301 /survey http://communitychristian.org/pages/surveys?act=view_survey&survey=Catalyst+Big+Idea+Review
+Redirect 301 /serve http://communitychristian.org/pages/serve
+Redirect 301 /childcare http://communitychristian.org/pages/childcare
+Redirect 301 /impact/pledge http://communitychristian.org/pages/pledge
+Redirect 301 /branding http://communitychristian.org/pages/branding
+Redirect 301 /compensation http://communitychristian.org/pages/compensation
+Redirect 301 /podcast http://communitychristian.org/pages/podcast
+Redirect 301 /podcasts http://communitychristian.org/pages/podcast
+Redirect 301 /components/com_podcasts/feed/1.xml http://communitychristian.org/pages/components/com_podcasts/feed/1.xml
+Redirect 301 /video http://communitychristian.org/pages/video
+Redirect 301 /videos http://communitychristian.org/pages/video
+Redirect 301 /bigidea http://communitychristian.org/
+Redirect 301 /bigidea/series/1-adults/116-exponential-impact http://communitychristian.org/impactdare
+Redirect 301 /ministries/arts/epic/1835-let-it-be-christmas https://communitychristian.org/ministries/epic/tickets
+Redirect 301 /ministries/community412/giftmart http://communitychristian.org/pages/giftmart
+Redirect 301 /components/com_podcasts/feed/1.xml https://communitychristian.org/pages/components/com_podcasts/feed/1.xml
+
+#Permenant Redirects
+Redirect 301 /bigidea/series/1-adults/122-christmas-the-untold-story http://communitychristian.org/
+Redirect 301 /staff http://communitychristian.org/ministries/staff
+Redirect 301 /update.html http://communitychristian.org
+Redirect 301 /ministries/arts/epic http://communitychristian.org/ministries/epic
+Redirect 301 /aboutus/staff http://communitychristian.org/contact
+Redirect 301 /aboutus/contactform http://communitychristian.org/pages/contact
+Redirect 301 /blast http://communitychristian.org/ministries/blast
+Redirect 301 /ministries/students/news/1880-blast-2011-february-18-to-21 http://communitychristian.org/ministries/blast
+Redirect 301 /c412 http://communitychristian.org/ministries/community412
+Redirect 301 /community412 http://communitychristian.org/ministries/community412
+Redirect 301 /generosity/give https://communitychristian.org/give
+Redirect 301 /lighthouse http://communitychristian.org/ministries/community412/lighthouse
+Redirect 301 /dive http://communitychristian.org/ministries/kids/baptism
+Redirect 301 /glc http://communitychristian.org/ministries/glc
+Redirect 301 /sfta http://communitychristian.org/ministries/sfta
+Redirect 301 /stuco http://communitychristian.org/ministries/students
+Redirect 301 /kids http://communitychristian.org/ministries/kids
+Redirect 301 /kidscity http://communitychristian.org/ministries/kids
+Redirect 301 /3cms https://cccprod.communitychristian.org/3cms_prod/login.aspx
+Redirect 301 /arts http://communitychristian.org/ministries/arts/community
+Redirect 301 /cthej http://communitychristian.org/ministries/cthej
+Redirect 301 /handsofhope http://communitychristian.org/ministries/handsofhope
+Redirect 301 /ministries/heartsandhands http://communitychristian.org/ministries/handsofhope
+Redirect 301 /chicago http://communitychristian.org/locations/lincolnsquare
+Redirect 301 /lincolnsquare http://communitychristian.org/locations/lincolnsquare
+Redirect 301 /lemont http://communitychristian.org/locations/lemont
+Redirect 301 /montgomery http://communitychristian.org/locations/montgomery
+Redirect 301 /yellowbox http://communitychristian.org/locations/naperville-yb
+Redirect 301 /plainfield http://communitychristian.org/locations/plainfield
+Redirect 301 /shorewood http://communitychristian.org/locations/shorewood
+Redirect 301 /romeoville http://communitychristian.org/locations/romeoville
+Redirect 301 /yorkville http://communitychristian.org/locations/yorkville
+Redirect 301 /downtown http://communitychristian.org/locations/naperville-downtown
+Redirect 301 /pilsen http://communitychristian.org/locations/lincolnsquare
+Redirect 301 /locations/pilsen http://communitychristian.org/locations/lincolnsquare
+Redirect 301 /carillon http://communitychristian.org/locations/carillon
+Redirect 301 /eastaurora http://communitychristian.org/locations/eastaurora
+Redirect 301 /print http://print.communitychristian.org/index.iml?aid=4613&cid=1393&cbr=1
+
+
+#DirectoryIndex index.php
+#RewriteEngine on
+#RewriteCond $1 !^(index\.php|serialize\.php|user_images|pages|cached_images|events|css|js|robots\.txt|favicon\.ico)
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule ^(.*)$ ./index.php?$1 [L,QSA]
+
+
+
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond $1 !^(index\.php|chat_api\.php|serialize\.php|favicon\.ico|notifications_cron\.php|dc|resources|wymeditor|financial_docs|system|bible|pages|text|cached_images|user_images|templates|events|tmp|user_guide|robots\.txt)
+RewriteRule ^(.*)$ /index.php?/$1 [L] 
+</IfModule>
+
+<IfModule !mod_rewrite.c>
+    # If we don't have mod_rewrite installed, all 404's
+    # can be sent to index.php, and everything works as normal.
+    # Submitted by: ElliotHaughin
+
+    ErrorDocument 404 /index.php
+</IfModule> 

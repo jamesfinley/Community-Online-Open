@@ -1,0 +1,127 @@
+#notes {
+	width: 960px;
+	margin: 10px auto 0;
+}
+
+#notes h2 {
+	position: relative;
+	height: 31px;
+	padding: 9px 0 0;
+	background: url(../images/notes_mast.png) no-repeat top center;
+	text-align: center;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, .8);
+	color: #fff;
+}
+#notes h2 #print_notes {
+	position: absolute;
+	top: 5px;
+	right: 5px;
+	display: block;
+	width: 30px;
+	height: 30px;
+	background: url(../images/notes_printer.png) no-repeat;
+	text-indent: -9000px;
+}
+
+#notebook {
+	min-height: 500px;
+	border: 1px solid #c7c74e;
+	border-top: none;
+	background: url(../images/notes_paper.png) repeat-x;
+	-webkit-border-bottom-left-radius: 3px;
+	-webkit-border-bottom-right-radius: 3px;
+	}
+	#notelist {
+	float: left;
+	list-style: none;
+	width: 320px;
+	margin-right: 10px;
+	padding: 10px 0 0;
+	line-height: 24px;
+	}
+	#notelist li {
+	position: relative;
+	font-size: 14px;
+	}
+	#notelist li a.item {
+	display: block;
+	width: 280px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	padding: 0 10px;
+	color: #444;
+	color: rgba(0, 0, 0, .8);
+	}
+	#notelist li a.item:hover {
+	background: url(../images/notes_hover.png) no-repeat bottom left !important;
+	text-decoration: none;
+	}
+	#notelist li a.item.selected {
+	background: url(../images/notes_selected.png) no-repeat bottom left;
+	}
+	#notelist li a.item .big_idea {
+	font-weight: bold;
+	}
+	#notelist li a.item .series_title {
+	color: #777;
+	color: rgba(0, 0, 0, .6);
+	}
+	#notelist li a.delete {
+	position: absolute;
+	right: 3px;
+	top: 3px;
+	display: none;
+	width: 16px;
+	height: 16px;
+	background: url(../images/notes_delete.png) no-repeat;
+	text-indent: -9000px;
+	}
+	#notelist li:hover a.delete {
+	display: block;
+	}
+	#notelist .date {
+	position: absolute;
+	top: -1px;
+	right: 321px;
+	display: block;
+	opacity: 0;
+	width: 0;
+	white-space: nowrap;
+	overflow: hidden;
+	border: 1px solid #888;
+	border-color: transparent;
+	border-right: none;
+	-webkit-border-top-left-radius: 3px;
+	-webkit-border-bottom-left-radius: 3px;
+	-moz-border-radius-topleft: 3px;
+	-moz-border-radius-bottomleft: 3px;
+	background: #fff;
+	text-align: right;
+	-webkit-transition: .35s;
+	font-size: 12px;
+	}
+	#notelist li:hover .date {
+	opacity: 1;
+	width: 100px;
+	padding-right: 3px;
+	border-color: #888;
+	}
+	#note {
+	float: left;
+	width: 608px;
+	padding: 10px 10px 10px;
+	font-size: 16px;
+	line-height: 24px;
+	}
+	#note textarea {
+	width: 100%;
+	height: 500px;
+	resize: none;
+	border: none;
+	outline: none;
+	background: transparent;
+	font: 16px/24px Helvetica Neue, Helvetica, Arial, sans-serif;
+	color: #444;
+	color: rgba(0, 0, 0, .6);
+	}

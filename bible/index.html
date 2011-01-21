@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta name="viewport" content="user-scalable=no, width=device-width, user-scalable=no, maximum-scale=1.0" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>ESV</title>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+		<script type="text/javascript" src="bible.js"></script>
+		<link rel="stylesheet" href="resources/css/style.css" />
+		<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+			try {
+				var pageTracker = _gat._getTracker("UA-11976907-1");
+				pageTracker._trackPageview();
+			} catch(err) {}
+		</script>
+	</head>
+	<body>
+		<div id="header">
+			<div id="navigation">
+				<a class="button" id="search_verse" href="javascript:bible.show_search()">search</a>
+				<a class="button" id="previous_book" href="javascript:bible.previous_book()">previous book</a>
+				<a class="button" id="previous_chapter" href="javascript:bible.previous_chapter()">previous chapter</a>
+				<span class="book_name"></span>
+				<a class="button" id="next_chapter" href="javascript:bible.next_chapter()">next chapter</a>
+				<a class="button" id="next_book" href="javascript:bible.next_book()">next book</a>
+			</div>
+		</div>
+		<div id="bible"></div>
+		<span class="copyright">The Holy Bible, English Standard Version copyright &copy; 2001 by Crossway Bibles, a publishing ministry of Good News Publishers. Used by permission. All rights reserved. Quotation information.</span>
+	</body>
+</html>

@@ -1,0 +1,17 @@
+<div class="esv"><h2>Jonah 3</h2>
+<div class="esv-text"><h3 id="p32003001.01-1">Jonah Goes to Nineveh</h3>
+<p id="p32003001.05-1"><span class="chapter-num" id="v32003001-1">3:1&nbsp;</span>Then the word of the <span class="small-caps">Lord</span> came to Jonah the second time, saying, <span class="verse-num" id="v32003002-1">2&nbsp;</span>&#8220;Arise, go to Nineveh, that great city, and call out against it the message that I tell you.&#8221; <span class="verse-num" id="v32003003-1">3&nbsp;</span>So Jonah arose and went to Nineveh, according to the word of the <span class="small-caps">Lord</span>. Now Nineveh was an exceedingly great city,<span class="footnote">&nbsp;<a href="#f1" id="b1" title="Hebrew 'a great city to God'">[1]</a></span> three days' journey in breadth.<span class="footnote">&nbsp;<a href="#f2" id="b2" title="Or 'a visit was a three days' journey'">[2]</a></span> <span class="verse-num" id="v32003004-1">4&nbsp;</span>Jonah began to go into the city, going a day's journey. And he called out, &#8220;Yet forty days, and Nineveh shall be overthrown!&#8221; <span class="verse-num" id="v32003005-1">5&nbsp;</span>And the people of Nineveh believed God. They called for a fast and put on sackcloth, from the greatest of them to the least of them.</p>
+ <h3 id="p32003006.01-1">The People of Nineveh Repent</h3>
+<p id="p32003006.06-1"><span class="verse-num" id="v32003006-1">6&nbsp;</span>The word reached<span class="footnote">&nbsp;<a href="#f3" id="b3" title="Or 'had reached'">[3]</a></span> the king of Nineveh, and he arose from his throne, removed his robe, covered himself with sackcloth, and sat in ashes. <span class="verse-num" id="v32003007-1">7&nbsp;</span>And he issued a proclamation and published through Nineveh, &#8220;By the decree of the king and his nobles: Let neither man nor beast, herd nor flock, taste anything. Let them not feed or drink water, <span class="verse-num" id="v32003008-1">8&nbsp;</span>but let man and beast be covered with sackcloth, and let them call out mightily to God. Let everyone turn from his evil way and from the violence that is in his hands. <span class="verse-num" id="v32003009-1">9&nbsp;</span>Who knows? God may turn and relent and turn from his fierce anger, so that we may not perish.&#8221;</p>
+ <p id="p32003010.01-1"><span class="verse-num" id="v32003010-1">10&nbsp;</span>When God saw what they did, how they turned from their evil way, God relented of the disaster that he had said he would do to them, and he did not do it.</p>
+</div>
+<div class="footnotes">
+<h3>Footnotes</h3>
+<p><span class="footnote"><a href="#b1" id="f1">[1]</a></span> <span class="footnote-ref">3:3</span> Hebrew <em>a great city to God</em>
+<br />
+<span class="footnote"><a href="#b2" id="f2">[2]</a></span> <span class="footnote-ref">3:3</span> Or <em>a visit was a three days' journey</em>
+<br />
+<span class="footnote"><a href="#b3" id="f3">[3]</a></span> <span class="footnote-ref">3:6</span> Or <em>had reached</em>
+</p>
+</div>
+</div>

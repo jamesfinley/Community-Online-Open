@@ -1,0 +1,157 @@
+<div class="esv"><h2>Lamentations 1</h2>
+<div class="esv-text"><h3 id="p25001001.01-1">How Lonely Sits the City</h3>
+<div class="block-indent">
+<p class="line-group" id="p25001001.06-1"><span class="chapter-num" id="v25001001-1">1:1&nbsp;</span>How lonely sits the city<br />
+<span class="indent"></span>that was full of people!<br />
+How like a widow has she become,<br />
+<span class="indent"></span>she who was great among the nations!<br />
+She who was a princess among the provinces<br />
+<span class="indent"></span>has become a slave.</p>
+ <p class="line-group" id="p25001002.01-1"><span class="verse-num" id="v25001002-1">2&nbsp;</span>She weeps bitterly in the night,<br />
+<span class="indent"></span>with tears on her cheeks;<br />
+among all her lovers<br />
+<span class="indent"></span>she has none to comfort her;<br />
+all her friends have dealt treacherously with her;<br />
+<span class="indent"></span>they have become her enemies.</p>
+ <p class="line-group" id="p25001003.01-1"><span class="verse-num" id="v25001003-1">3&nbsp;</span>Judah has gone into exile because of affliction<br />
+<span class="indent"></span>and hard servitude;<br />
+she dwells now among the nations,<br />
+<span class="indent"></span>but finds no resting place;<br />
+her pursuers have all overtaken her<br />
+<span class="indent"></span>in the midst of her distress.<span class="footnote">&nbsp;<a href="#f1" id="b1" title="Or 'in the narrow passes'">[1]</a></span></p>
+ <p class="line-group" id="p25001004.01-1"><span class="verse-num" id="v25001004-1">4&nbsp;</span>The roads to Zion mourn,<br />
+<span class="indent"></span>for none come to the festival;<br />
+all her gates are desolate;<br />
+<span class="indent"></span>her priests groan;<br />
+her virgins have been afflicted,<span class="footnote">&nbsp;<a href="#f2" id="b2" title="Septuagint, Old Latin 'dragged away'">[2]</a></span><br />
+<span class="indent"></span>and she herself suffers bitterly.</p>
+ <p class="line-group" id="p25001005.01-1"><span class="verse-num" id="v25001005-1">5&nbsp;</span>Her foes have become the head;<br />
+<span class="indent"></span>her enemies prosper,<br />
+because the <span class="small-caps">Lord</span> has afflicted her<br />
+<span class="indent"></span>for the multitude of her transgressions;<br />
+her children have gone away,<br />
+<span class="indent"></span>captives before the foe.</p>
+ <p class="line-group" id="p25001006.01-1"><span class="verse-num" id="v25001006-1">6&nbsp;</span>From the daughter of Zion<br />
+<span class="indent"></span>all her majesty has departed.<br />
+Her princes have become like deer<br />
+<span class="indent"></span>that find no pasture;<br />
+they fled without strength<br />
+<span class="indent"></span>before the pursuer.</p>
+ <p class="line-group" id="p25001007.01-1"><span class="verse-num" id="v25001007-1">7&nbsp;</span>Jerusalem remembers<br />
+<span class="indent"></span>in the days of her affliction and wandering<br />
+all the precious things<br />
+<span class="indent"></span>that were hers from days of old.<br />
+When her people fell into the hand of the foe,<br />
+<span class="indent"></span>and there was none to help her,<br />
+her foes gloated over her;<br />
+<span class="indent"></span>they mocked at her downfall.</p>
+ <p class="line-group" id="p25001008.01-1"><span class="verse-num" id="v25001008-1">8&nbsp;</span>Jerusalem sinned grievously;<br />
+<span class="indent"></span>therefore she became filthy;<br />
+all who honored her despise her,<br />
+<span class="indent"></span>for they have seen her nakedness;<br />
+she herself groans<br />
+<span class="indent"></span>and turns her face away.</p>
+ <p class="line-group" id="p25001009.01-1"><span class="verse-num" id="v25001009-1">9&nbsp;</span>Her uncleanness was in her skirts;<br />
+<span class="indent"></span>she took no thought of her future;<span class="footnote">&nbsp;<a href="#f3" id="b3" title="Or 'end'">[3]</a></span><br />
+therefore her fall is terrible;<br />
+<span class="indent"></span>she has no comforter.<br />
+&#8220;O <span class="small-caps">Lord</span>, behold my affliction,<br />
+<span class="indent"></span>for the enemy has triumphed!&#8221;</p>
+ <p class="line-group" id="p25001010.01-1"><span class="verse-num" id="v25001010-1">10&nbsp;</span>The enemy has stretched out his hands<br />
+<span class="indent"></span>over all her precious things;<br />
+for she has seen the nations<br />
+<span class="indent"></span>enter her sanctuary,<br />
+those whom you forbade<br />
+<span class="indent"></span>to enter your congregation.</p>
+ <p class="line-group" id="p25001011.01-1"><span class="verse-num" id="v25001011-1">11&nbsp;</span>All her people groan<br />
+<span class="indent"></span>as they search for bread;<br />
+they trade their treasures for food<br />
+<span class="indent"></span>to revive their strength.<br />
+&#8220;Look, O <span class="small-caps">Lord</span>, and see,<br />
+<span class="indent"></span>for I am despised.&#8221;</p>
+ <p class="line-group" id="p25001012.01-1"><span class="verse-num" id="v25001012-1">12&nbsp;</span>&#8220;Is it nothing to you, all you who pass by?<br />
+<span class="indent"></span>Look and see<br />
+if there is any sorrow like my sorrow,<br />
+<span class="indent"></span>which was brought upon me,<br />
+which the <span class="small-caps">Lord</span> inflicted<br />
+<span class="indent"></span>on the day of his fierce anger.</p>
+ <p class="line-group" id="p25001013.01-1"><span class="verse-num" id="v25001013-1">13&nbsp;</span>&#8220;From on high he sent fire;<br />
+<span class="indent"></span>into my bones<span class="footnote">&nbsp;<a href="#f4" id="b4" title="Septuagint; Hebrew 'bones and'">[4]</a></span> he made it descend;<br />
+he spread a net for my feet;<br />
+<span class="indent"></span>he turned me back;<br />
+he has left me stunned,<br />
+<span class="indent"></span>faint all the day long.</p>
+ <p class="line-group" id="p25001014.01-1"><span class="verse-num" id="v25001014-1">14&nbsp;</span>&#8220;My transgressions were bound<span class="footnote">&nbsp;<a href="#f5" id="b5" title="The meaning of the Hebrew is uncertain">[5]</a></span> into a yoke;<br />
+<span class="indent"></span>by his hand they were fastened together;<br />
+they were set upon my neck;<br />
+<span class="indent"></span>he caused my strength to fail;<br />
+the Lord gave me into the hands<br />
+<span class="indent"></span>of those whom I cannot withstand.</p>
+ <p class="line-group" id="p25001015.01-1"><span class="verse-num" id="v25001015-1">15&nbsp;</span>&#8220;The Lord rejected<br />
+<span class="indent"></span>all my mighty men in my midst;<br />
+he summoned an assembly against me<br />
+<span class="indent"></span>to crush my young men;<br />
+the Lord has trodden as in a winepress<br />
+<span class="indent"></span>the virgin daughter of Judah.</p>
+ <p class="line-group" id="p25001016.01-1"><span class="verse-num" id="v25001016-1">16&nbsp;</span>&#8220;For these things I weep;<br />
+<span class="indent"></span>my eyes flow with tears;<br />
+for a comforter is far from me,<br />
+<span class="indent"></span>one to revive my spirit;<br />
+my children are desolate,<br />
+<span class="indent"></span>for the enemy has prevailed.&#8221;</p>
+ <p class="line-group" id="p25001017.01-1"><span class="verse-num" id="v25001017-1">17&nbsp;</span>Zion stretches out her hands,<br />
+<span class="indent"></span>but there is none to comfort her;<br />
+the <span class="small-caps">Lord</span> has commanded against Jacob<br />
+<span class="indent"></span>that his neighbors should be his foes;<br />
+Jerusalem has become<br />
+<span class="indent"></span>a filthy thing among them.</p>
+ <p class="line-group" id="p25001018.01-1"><span class="verse-num" id="v25001018-1">18&nbsp;</span>&#8220;The <span class="small-caps">Lord</span> is in the right,<br />
+<span class="indent"></span>for I have rebelled against his word;<br />
+but hear, all you peoples,<br />
+<span class="indent"></span>and see my suffering;<br />
+my young women and my young men<br />
+<span class="indent"></span>have gone into captivity.</p>
+ <p class="line-group" id="p25001019.01-1"><span class="verse-num" id="v25001019-1">19&nbsp;</span>&#8220;I called to my lovers,<br />
+<span class="indent"></span>but they deceived me;<br />
+my priests and elders<br />
+<span class="indent"></span>perished in the city,<br />
+while they sought food<br />
+<span class="indent"></span>to revive their strength.</p>
+ <p class="line-group" id="p25001020.01-1"><span class="verse-num" id="v25001020-1">20&nbsp;</span>&#8220;Look, O <span class="small-caps">Lord</span>, for I am in distress;<br />
+<span class="indent"></span>my stomach churns;<br />
+my heart is wrung within me,<br />
+<span class="indent"></span>because I have been very rebellious.<br />
+In the street the sword bereaves;<br />
+<span class="indent"></span>in the house it is like death.</p>
+ <p class="line-group" id="p25001021.01-1"><span class="verse-num" id="v25001021-1">21&nbsp;</span>&#8220;They heard<span class="footnote">&nbsp;<a href="#f6" id="b6" title="Septuagint, Syriac 'Hear'">[6]</a></span> my groaning,<br />
+<span class="indent"></span>yet there is no one to comfort me.<br />
+All my enemies have heard of my trouble;<br />
+<span class="indent"></span>they are glad that you have done it.<br />
+You have brought<span class="footnote">&nbsp;<a href="#f7" id="b7" title="Syriac 'Bring'">[7]</a></span> the day you announced;<br />
+<span class="indent"></span>now let them be as I am.</p>
+ <p class="line-group" id="p25001022.01-1"><span class="verse-num" id="v25001022-1">22&nbsp;</span>&#8220;Let all their evildoing come before you,<br />
+<span class="indent"></span>and deal with them<br />
+as you have dealt with me<br />
+<span class="indent"></span>because of all my transgressions;<br />
+for my groans are many,<br />
+<span class="indent"></span>and my heart is faint.&#8221;</p>
+</div>
+</div>
+<div class="footnotes">
+<h3>Footnotes</h3>
+<p><span class="footnote"><a href="#b1" id="f1">[1]</a></span> <span class="footnote-ref">1:3</span> Or <em>in the narrow passes</em>
+<br />
+<span class="footnote"><a href="#b2" id="f2">[2]</a></span> <span class="footnote-ref">1:4</span> Septuagint, Old Latin <em>dragged away</em>
+<br />
+<span class="footnote"><a href="#b3" id="f3">[3]</a></span> <span class="footnote-ref">1:9</span> Or <em>end</em>
+<br />
+<span class="footnote"><a href="#b4" id="f4">[4]</a></span> <span class="footnote-ref">1:13</span> Septuagint; Hebrew <em>bones and</em>
+<br />
+<span class="footnote"><a href="#b5" id="f5">[5]</a></span> <span class="footnote-ref">1:14</span> The meaning of the Hebrew is uncertain
+<br />
+<span class="footnote"><a href="#b6" id="f6">[6]</a></span> <span class="footnote-ref">1:21</span> Septuagint, Syriac <em>Hear</em>
+<br />
+<span class="footnote"><a href="#b7" id="f7">[7]</a></span> <span class="footnote-ref">1:21</span> Syriac <em>Bring</em>
+</p>
+</div>
+</div>

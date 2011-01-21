@@ -1,0 +1,54 @@
+<div class="esv"><h2>Hebrews 1</h2>
+<div class="esv-text"><h3 id="p58001001.01-1">The Supremacy of God's Son</h3>
+<p class="chapter-first" id="p58001001.06-1"><span class="chapter-num" id="v58001001-1">1:1&nbsp;</span>Long ago, at many times and in many ways, God spoke to our fathers by the prophets, <span class="verse-num" id="v58001002-1">2&nbsp;</span>but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world. <span class="verse-num" id="v58001003-1">3&nbsp;</span>He is the radiance of the glory of God and the exact imprint of his nature, and he upholds the universe by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high, <span class="verse-num" id="v58001004-1">4&nbsp;</span>having become as much superior to angels as the name he has inherited is more excellent than theirs.</p>
+ <p id="p58001005.01-1"><span class="verse-num" id="v58001005-1">5&nbsp;</span>For to which of the angels did God ever say,</p>
+<div class="block-indent">
+<p class="line-group" id="p58001005.11-1">&#8220;You are my Son,<br />
+<span class="indent"></span>today I have begotten you&#8221;?</p>
+</div>
+<p class="same-paragraph" id="p58001005.20-1">Or again,</p>
+<div class="block-indent">
+<p class="line-group" id="p58001005.22-1">&#8220;I will be to him a father,<br />
+<span class="indent"></span>and he shall be to me a son&#8221;?</p>
+</div>
+ <p class="same-paragraph" id="p58001006.01-1"><span class="verse-num" id="v58001006-1">6&nbsp;</span>And again, when he brings the firstborn into the world, he says,</p>
+<div class="block-indent">
+<p class="line-group" id="p58001006.13-1">&#8220;Let all God's angels worship him.&#8221;</p>
+</div>
+ <p class="same-paragraph" id="p58001007.01-1"><span class="verse-num" id="v58001007-1">7&nbsp;</span>Of the angels he says,</p>
+<div class="block-indent">
+<p class="line-group" id="p58001007.06-1">&#8220;He makes his angels winds,<br />
+<span class="indent"></span>and his ministers a flame of fire.&#8221;</p>
+</div>
+ <p class="same-paragraph" id="p58001008.01-1"><span class="verse-num" id="v58001008-1">8&nbsp;</span>But of the Son he says,</p>
+<div class="block-indent">
+<p class="line-group" id="p58001008.07-1">&#8220;Your throne, O God, is forever and ever,<br />
+<span class="indent"></span>the scepter of uprightness is the scepter of your kingdom.<br />
+ <span class="verse-num" id="v58001009-1">9&nbsp;</span>You have loved righteousness and hated wickedness;<br />
+therefore God, your God, has anointed you<br />
+<span class="indent"></span>with the oil of gladness beyond your companions.&#8221;</p>
+</div>
+ <p class="same-paragraph" id="p58001010.01-1"><span class="verse-num" id="v58001010-1">10&nbsp;</span>And,</p>
+<div class="block-indent">
+<p class="line-group" id="p58001010.02-1">&#8220;You, Lord, laid the foundation of the earth in the beginning,<br />
+<span class="indent"></span>and the heavens are the work of your hands;<br />
+ <span class="verse-num" id="v58001011-1">11&nbsp;</span>they will perish, but you remain;<br />
+<span class="indent"></span>they will all wear out like a garment,<br />
+ <span class="verse-num" id="v58001012-1">12&nbsp;</span>like a robe you will roll them up,<br />
+<span class="indent"></span>like a garment they will be changed.<span class="footnote">&nbsp;<a href="#f1" id="b1" title="Some manuscripts omit 'like a garment'">[1]</a></span><br />
+But you are the same,<br />
+<span class="indent"></span>and your years will have no end.&#8221;</p>
+</div>
+ <p class="same-paragraph" id="p58001013.01-1"><span class="verse-num" id="v58001013-1">13&nbsp;</span>And to which of the angels has he ever said,</p>
+<div class="block-indent">
+<p class="line-group" id="p58001013.11-1">&#8220;Sit at my right hand<br />
+<span class="indent"></span>until I make your enemies a footstool for your feet&#8221;?</p>
+</div>
+ <p class="same-paragraph" id="p58001014.01-1"><span class="verse-num" id="v58001014-1">14&nbsp;</span>Are they not all ministering spirits sent out to serve for the sake of those who are to inherit salvation?</p>
+</div>
+<div class="footnotes">
+<h3>Footnotes</h3>
+<p><span class="footnote"><a href="#b1" id="f1">[1]</a></span> <span class="footnote-ref">1:12</span> Some manuscripts omit <em>like a garment</em>
+</p>
+</div>
+</div>

@@ -1,0 +1,35 @@
+#if_ie, #header, #footer, #notelist, #notes h2 #print_notes {
+	display: none;
+}
+
+body {
+	height: auto;
+	background: transparent;
+}
+
+#content {
+	width: auto;
+}
+
+#notes {
+	width: auto;
+}
+#notes h2 {
+	background: none;
+	color: #000;
+	text-shadow: none;
+}
+#notebook {
+	border: none;
+	background: none;
+}
+#note {
+	clear: left;
+	float: none;
+	width: auto;
+	padding: 10px;
+}
+#note textarea {
+	width: 100%;
+	color: #000;
+}

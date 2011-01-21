@@ -1,0 +1,443 @@
+#scroller {
+	display: none;
+}
+
+#header {
+	height: 100px;
+	border-bottom: 1px solid #192f3f;
+	background: -webkit-gradient(
+		radial,
+		10% -220%,
+		0,
+		10% -220%,
+		800,
+		from(#2b95c5),
+		color-stop(0.4, #2b95c5),
+		color-stop(0.5, #183964),
+		color-stop(0.9, #183964),
+		to(#192f3f)
+	);
+	text-shadow: 0 1px 2px rgba(0, 0, 0, .5);
+}
+#header.hide_navigation {
+	height: 50px;
+}
+#header #primary_navigation {
+	position: absolute;
+	left: 0;
+	top: 60px;
+	width: 100%;
+	list-style: none;
+	text-align: center;
+}
+#header #primary_navigation li {
+	position: relative;
+	display: block;
+	float: left;
+	width: 20%;
+	height: 40px;
+	margin: 0;
+}
+#header #primary_navigation li a {
+	display: inline-block;
+	width: 100%;
+	padding: 10px 0;
+	font-size: 20px;
+	font-weight: bold;
+	color: #fff;
+	text-decoration: none;
+}
+#header #primary_navigation li select {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 40px;
+	border: none;
+	opacity: 0;
+}
+.container {
+	width: 100%;
+}
+
+#group_page, #locations_page, #group_page.post_page {
+	width: 95%;
+	-webkit-box-sizing: border-box;
+	margin: 10px auto;
+}
+#group_page #filter_stream {
+	width: 100%;
+	max-height: 28px;
+	overflow: hidden;
+	padding: 0 10px;
+}
+#group_page #filter_stream:before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 0;
+	background: none;
+}
+#group_page #filter_stream:after {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 0;
+	background: none;
+}
+
+#group_page #stream {
+	width: 70%;
+	margin: 0;
+	padding-right: 20px;
+	-webkit-box-sizing: border-box;
+}
+#group_page #sidebar {
+	width: 30%;
+}
+
+#search_stream {
+	display: none;
+}
+
+#group_page #ministries_big_buttons {
+	white-space: nowrap;
+	max-height: 150px;
+	overflow: hidden;
+}
+#group_page #stream #post_to_stream {
+	padding-bottom: 40px;
+}
+#group_page #stream #post_to_stream h2 {
+	width: 100%;
+	max-width: 100%;
+	-webkit-box-sizing: border-box;
+}
+#group_page #stream #post_to_stream textarea {
+	width: 100%;
+	max-width: 100%;
+	-webkit-box-sizing: border-box;
+}
+#group_page #stream #post_to_stream input[type="submit"] {
+	float: right;
+	margin: 0;
+}
+#group_page #stream .stream_item .reply_box textarea {
+	width: 100%;
+	max-width: 100%;
+	height: 26px;
+	-webkit-box-sizing: border-box;
+}
+#group_page #stream .stream_item .reply_box input[type="submit"] {
+	float: right;
+	margin: 0;
+}
+
+#locations_page #sidebar {
+	display: none;
+}
+#locations_page #locations_map {
+	width: 100%;
+}
+
+#group_info_and_photos #groups_photo_banner_gradient {
+	background-position: top right;
+}
+#group_info {
+	margin-right: 10px;
+}
+
+#notifications_ribbon {
+	top: 100px;
+	text-shadow: none;
+}
+
+#ministries_big_buttons {
+	width: 942px;
+	margin: 0 auto 10px;
+}
+@media only screen and (max-width: 1000px) {
+	#ministries_big_buttons {
+		width: 705px;
+		height: 130px;
+	}
+	#ministries_big_buttons li a {
+		width: 225px;
+		height: 120px;
+		background-position: center right;
+	}
+	#ministries_big_buttons li a .head {
+		left: 10px;
+		top: 15px;
+		font-size: 30px;
+	}
+	#ministries_big_buttons li a .subhead {
+		display: block;
+		left: 10px;
+		bottom: 10px;
+		width: 140px;
+		font-size: 14px;
+		font-weight: normal;
+		white-space: normal;
+	}
+	
+}
+@media only screen and (max-width: 720px) {
+	
+	#ministries_big_buttons {
+		width: 100%;
+		height: auto;
+		margin: 0 0 10px;
+	}
+	#ministries_big_buttons li {
+		width: 30%;
+		margin: 0 2.5%;
+	}
+	#ministries_big_buttons li a {
+		width: 100%;
+		height: auto;
+		background: none !important;
+		border: none;
+		-webkit-box-shadow: none !important;
+	}
+	#ministries_big_buttons li a .head, #ministries_big_buttons li a .subhead {
+		position: static;
+		top: auto;
+		left: auto;
+	}
+	#ministries_big_buttons li a .head {
+		font-size: 24px;
+	}
+	#ministries_big_buttons li a .subhead {
+		font-size: 12px;
+	}
+	
+}
+@media only screen and (max-width: 400px) {
+	
+	#ministries_big_buttons {
+		width: 100%;
+		height: auto;
+		margin: 0 0 10px;
+	}
+	#ministries_big_buttons li {
+		width: 100%;
+		margin: 0 0 10px;
+		float: none;
+	}
+	#ministries_big_buttons li a {
+		width: 100%;
+		height: auto;
+		background: none !important;
+		border: none;
+		-webkit-box-shadow: none !important;
+	}
+	#ministries_big_buttons li a .head, #ministries_big_buttons li a .subhead {
+		position: static;
+		top: auto;
+		left: auto;
+	}
+	
+	
+}
+
+@media only screen and (min-width: 800px) {
+
+	#locations_page #locations_map {
+		width: 70%;
+		margin: 0;
+	}
+	
+	#locations_page #sidebar {
+		display: block;
+		width: 30%;
+		margin: 0;
+		padding-left: 20px;
+		-webkit-box-sizing: border-box;
+	}
+	
+}
+
+@media only screen and (max-width: 480px) {
+	
+	#header h1 {
+		width: 40px;
+			margin: 0 auto;
+		padding-top: 15px;
+	}
+	#header.hide_navigation h1 {
+		padding-top: 6px;
+	}
+	#header h1 a {
+		width: 100%;
+		height: 40px;
+		background: url(../images/mobile_eddy.png) no-repeat;
+	}
+	
+	#header #primary_navigation li a {
+		font-size: 14px;
+	}
+	
+	#group_page #stream {
+		width: 100%;
+		margin: 0;
+		padding-right: 20px;
+		-webkit-box-sizing: border-box;
+	}
+	#group_page #sidebar {
+		display: none;
+	}
+	
+	label[for=subject_field] {
+		display: block;
+	}
+	#subject_field {
+		max-width: 100%;
+		-webkit-box-sizing: border-box;
+	}
+	
+}
+@media only screen and (min-width: 480px) {
+	
+	#header h1 {
+		margin: 0 auto;
+		width: 406px;
+		height: 44px;
+		padding: 6px 0 0;
+	}
+	#header h1 a {
+		display: block;
+		width: 100%;
+		height: 45px;
+		background: url(/resources/images/logo.png) no-repeat 0 0;
+		text-indent: -9000px;
+	}
+	
+}
+
+@media only screen and (max-width: 320px) {
+	#giveback {
+		width: 282px; //30px less
+	}
+	#giveback h2 {
+		width: 291px;
+		background-position: 270px 0;
+	}
+	#giveback fieldset {
+		width: 282px;
+	}
+	#giveback fieldset .label_set input[type="text"], #giveback fieldset .label_set input[type="number"], #giveback fieldset .label_set input[type="email"] {
+		width: 129px;
+	}
+	#giveback fieldset .label_set {
+		width: 141px;
+	}
+	#giveback fieldset .label_set.firstName {
+		width: 131px;
+	}
+	#giveback fieldset .label_set.firstName input[type="text"] {
+		width: 119px;
+	}
+	#giveback fieldset .label_set.lastName {
+		width: 151px;
+	}
+	#giveback fieldset .label_set.lastName input[type="text"] {
+		width: 139px;
+	}
+	.segmented {
+		margin: 0 auto 10px;
+	}
+	#giveback #giveback_payment {
+		width: 282px;
+	}
+	#giveback fieldset .label_set.cc {
+		width: 181px;
+	}
+	#giveback fieldset .label_set.cc input {
+		width: 169px;
+	}
+	#giveback fieldset .label_set.code {
+		width: 101px;
+	}
+	#giveback fieldset .label_set.code input {
+		width: 89px;
+	}
+	#giveback fieldset .label_set.exp {
+		width: 91px;
+	}
+	#giveback fieldset .label_set.exp input {
+		width: 79px;
+	}
+	#giveback fieldset .label_set.zip {
+		width: 191px;
+	}
+	#giveback fieldset .label_set.zip input {
+		width: 179px;
+	}
+	#giveback fieldset .label_set.routing {
+		width: 101px;
+	}
+	#giveback fieldset .label_set.routing input {
+		width: 89px;
+	}
+	#giveback fieldset .label_set.account {
+		width: 181px;
+	}
+	#giveback fieldset .label_set.account input {
+		width: 169px;
+	}
+	#giveback fieldset .label_set input {
+		width: 129px;
+	}
+	#giveback fieldset .label_set.account_type select {
+		width: 129px;
+	}
+	#giveback fieldset .label_set.amount {
+		width: 270px;
+	}
+	#giveback fieldset .label_set.amount input {
+		width: 270px;
+	}
+	#giveback fieldset .label_set.comments {
+		width: 270px;
+	}
+	#giveback fieldset .label_set.comments input[type="text"] {
+		width: 270px;
+	}
+	.toggleset {
+		width: 282px;
+	}
+	#giveback .hide_these {
+		width: 282px;
+	}
+	#giveback fieldset .label_set.recurring_frequency {
+		width: 90px;
+	}
+	#giveback fieldset .label_set.recurring_frequency select {
+		width: 80px;
+	}
+	#giveback fieldset .label_set.recurring_date {
+		width: 110px;
+	}
+	#giveback fieldset .label_set.recurring_date input[type="text"] {
+		width: 90px;
+	}
+	#giveback fieldset .label_set.recurring_count {
+		width: 80px;
+	}
+	#giveback fieldset .label_set.recurring_count input {
+		width: 70px;
+	}
+	#giveback input[type="button"] {
+		margin-left: 15px;
+	}
+}
+
+#big_idea_toggler {
+	display: none;
+}
+#collapse_big_ideas {
+	display: none;
+}

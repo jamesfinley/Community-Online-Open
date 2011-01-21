@@ -1,0 +1,12 @@
+<div class="esv"><h2>1 John 1</h2>
+<div class="esv-text"><h3 id="p62001001.01-1">The Word of Life</h3>
+<p class="chapter-first" id="p62001001.05-1"><span class="chapter-num" id="v62001001-1">1:1&nbsp;</span>That which was from the beginning, which we have heard, which we have seen with our eyes, which we looked upon and have touched with our hands, concerning the word of life&#8212; <span class="verse-num" id="v62001002-1">2&nbsp;</span>the life was made manifest, and we have seen it, and testify to it and proclaim to you the eternal life, which was with the Father and was made manifest to us&#8212; <span class="verse-num" id="v62001003-1">3&nbsp;</span>that which we have seen and heard we proclaim also to you, so that you too may have fellowship with us; and indeed our fellowship is with the Father and with his Son Jesus Christ. <span class="verse-num" id="v62001004-1">4&nbsp;</span>And we are writing these things so that our<span class="footnote">&nbsp;<a href="#f1" id="b1" title="Some manuscripts 'your'">[1]</a></span> joy may be complete.</p>
+ <h3 id="p62001005.01-1">Walking in the Light</h3>
+<p id="p62001005.05-1"><span class="verse-num" id="v62001005-1">5&nbsp;</span>This is the message we have heard from him and proclaim to you, that God is light, and in him is no darkness at all. <span class="verse-num" id="v62001006-1">6&nbsp;</span>If we say we have fellowship with him while we walk in darkness, we lie and do not practice the truth. <span class="verse-num" id="v62001007-1">7&nbsp;</span>But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus his Son cleanses us from all sin. <span class="verse-num" id="v62001008-1">8&nbsp;</span>If we say we have no sin, we deceive ourselves, and the truth is not in us. <span class="verse-num" id="v62001009-1">9&nbsp;</span>If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness. <span class="verse-num" id="v62001010-1">10&nbsp;</span>If we say we have not sinned, we make him a liar, and his word is not in us.</p>
+</div>
+<div class="footnotes">
+<h3>Footnotes</h3>
+<p><span class="footnote"><a href="#b1" id="f1">[1]</a></span> <span class="footnote-ref">1:4</span> Some manuscripts <em>your</em>
+</p>
+</div>
+</div>
